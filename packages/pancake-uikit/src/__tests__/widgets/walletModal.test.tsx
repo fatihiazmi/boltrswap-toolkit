@@ -9,16 +9,16 @@ it("renders ConnectModal correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <div
-        class="sc-fubCfw cNFQaY"
+        class="sc-furvIG fSHLOA"
       >
         <div
-          class="sc-pFZIQ idVZsR"
+          class="sc-pVTma hJSBAt"
         >
           <div
-            class="sc-eCssSg sc-jSgupP sc-jrAGrp jnvqfy cjuMmG eYDuGd"
+            class="sc-eCImvq sc-jRQAMF sc-jrQzUz bvbNmj hCaNlo CSUIz"
           >
             <h2
-              class="sc-bdfBwQ sc-hKgILt gWEhOj bCnOmg"
+              class="sc-bdvvaa sc-hKwCoD XbzBn iBLUxr"
               color="text"
             >
               Connect to a wallet
@@ -26,11 +26,11 @@ it("renders ConnectModal correctly", () => {
           </div>
           <button
             aria-label="Close the dialog"
-            class="sc-gKsewC ZInsY sc-iBPRYJ ifcXSU"
+            class="sc-gKckTs bfMveL sc-iCfLBT jbGVuG"
             scale="md"
           >
             <svg
-              class="sc-dlfnbm kPlhyw"
+              class="sc-dkPtyc eOMiXg"
               color="primary"
               viewBox="0 0 24 24"
               width="20px"
@@ -43,23 +43,23 @@ it("renders ConnectModal correctly", () => {
           </button>
         </div>
         <div
-          class="sc-eCssSg sc-jSgupP eYcDys jMcUDu"
+          class="sc-eCImvq sc-jRQAMF hBzZsF dEhKxM"
         >
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-metamask"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               Metamask
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -190,20 +190,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-trustwallet"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               TrustWallet
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -235,20 +235,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-mathwallet"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               MathWallet
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -269,20 +269,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-tokenpocket"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               TokenPocket
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -305,20 +305,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-walletconnect"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               WalletConnect
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -335,20 +335,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC hLJvid"
+            class="sc-gKckTs iSgMFq"
             id="wallet-connect-binance chain wallet"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               Binance Chain Wallet
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 32 32"
               width="32px"
@@ -401,20 +401,20 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <button
-            class="sc-gKsewC iJyjSZ"
+            class="sc-gKckTs esnVQe"
             id="wallet-connect-safepal wallet"
             scale="md"
             style="justify-content: space-between;"
             width="100%"
           >
             <div
-              class="sc-bdfBwQ fEwDKZ"
+              class="sc-bdvvaa cgHzbp"
               color="primary"
             >
               SafePal Wallet
             </div>
             <svg
-              class="sc-dlfnbm cqTLJf"
+              class="sc-dkPtyc hUcGvP"
               color="text"
               viewBox="0 0 96 96"
               width="32px"
@@ -433,14 +433,14 @@ it("renders ConnectModal correctly", () => {
             </svg>
           </button>
           <a
-            class="sc-bdfBwQ sc-gsTCUz eiaRqE djpNeP sc-crrsfI dwTIxE"
+            class="sc-bdvvaa sc-gsDJrp idxVps iZzBHB sc-crHlIS leExkG"
             color="primary"
             href="https://docs.pancakeswap.finance/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain"
             rel="noreferrer noopener"
             target="_blank"
           >
             <svg
-              class="sc-dlfnbm gYbuYc"
+              class="sc-dkPtyc iQhQaw"
               color="primary"
               viewBox="0 0 24 24"
               width="20px"
@@ -465,16 +465,16 @@ it("renders AccountModal correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <div
-        class="sc-fubCfw cNFQaY"
+        class="sc-furvIG fSHLOA"
       >
         <div
-          class="sc-pFZIQ idVZsR"
+          class="sc-pVTma hJSBAt"
         >
           <div
-            class="sc-eCssSg sc-jSgupP sc-jrAGrp jnvqfy cjuMmG eYDuGd"
+            class="sc-eCImvq sc-jRQAMF sc-jrQzUz bvbNmj hCaNlo CSUIz"
           >
             <h2
-              class="sc-bdfBwQ sc-hKgILt gWEhOj bCnOmg"
+              class="sc-bdvvaa sc-hKwCoD XbzBn iBLUxr"
               color="text"
             >
               Your wallet
@@ -482,11 +482,11 @@ it("renders AccountModal correctly", () => {
           </div>
           <button
             aria-label="Close the dialog"
-            class="sc-gKsewC ZInsY sc-iBPRYJ ifcXSU"
+            class="sc-gKckTs bfMveL sc-iCfLBT jbGVuG"
             scale="md"
           >
             <svg
-              class="sc-dlfnbm kPlhyw"
+              class="sc-dkPtyc eOMiXg"
               color="primary"
               viewBox="0 0 24 24"
               width="20px"
@@ -499,10 +499,10 @@ it("renders AccountModal correctly", () => {
           </button>
         </div>
         <div
-          class="sc-eCssSg sc-jSgupP eYcDys jMcUDu"
+          class="sc-eCImvq sc-jRQAMF hBzZsF dEhKxM"
         >
           <div
-            class="sc-bdfBwQ krzIlW"
+            class="sc-bdvvaa crryFa"
             color="text"
             font-size="20px"
             style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 8px;"
@@ -510,10 +510,10 @@ it("renders AccountModal correctly", () => {
             0xb218C5D6aF1F979aC42BC68d98A5A0D796C6aB01
           </div>
           <div
-            class="sc-eCssSg sc-jSgupP eHoxAW cjuMmG"
+            class="sc-eCImvq sc-jRQAMF kTcFfP hCaNlo"
           >
             <a
-              class="sc-bdfBwQ sc-gsTCUz bnSWIP djpNeP"
+              class="sc-bdvvaa sc-gsDJrp bLBcmb iZzBHB"
               color="primary"
               href="https://bscscan.com/address/0xb218C5D6aF1F979aC42BC68d98A5A0D796C6aB01"
               rel="noreferrer noopener"
@@ -521,7 +521,7 @@ it("renders AccountModal correctly", () => {
             >
               View on BscScan
               <svg
-                class="sc-dlfnbm dJUqYR"
+                class="sc-dkPtyc jAAMdt"
                 color="primary"
                 viewBox="0 0 24 24"
                 width="20px"
@@ -533,13 +533,13 @@ it("renders AccountModal correctly", () => {
               </svg>
             </a>
             <div
-              class="sc-bdfBwQ sc-dQppl czOnMt bIwdCo"
+              class="sc-bdvvaa sc-egiSv iUciAt ebQnFF"
               color="text"
               role="button"
             >
               Copy Address
               <svg
-                class="sc-dlfnbm dJUqYR"
+                class="sc-dkPtyc jAAMdt"
                 color="primary"
                 viewBox="0 0 24 24"
                 width="20px"
@@ -550,17 +550,17 @@ it("renders AccountModal correctly", () => {
                 />
               </svg>
               <div
-                class="sc-bqyKva idsmeh"
+                class="sc-bqiQRQ demfZF"
               >
                 Copied
               </div>
             </div>
           </div>
           <div
-            class="sc-eCssSg sc-jSgupP jnvqfy fvYwlu"
+            class="sc-eCImvq sc-jRQAMF bvbNmj ipZiuQ"
           >
             <button
-              class="sc-gKsewC cWGyuK"
+              class="sc-gKckTs bJcBTh"
               scale="sm"
             >
               Logout
