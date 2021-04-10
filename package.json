@@ -1,6 +1,6 @@
 {
   "name": "boltr-toolkit",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Boltr frontend packages",
   "private": true,
   "workspaces": [
