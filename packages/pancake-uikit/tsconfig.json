@@ -3,6 +3,7 @@
     "target": "ES5",
     "lib": ["dom", "DOM.Iterable", "ESNext"],
     "allowJs": true,
+    "outDir": "./",
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
