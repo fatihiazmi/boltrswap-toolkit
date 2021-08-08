@@ -1,5 +1,8 @@
 {
-  "extends": "@pancakeswap-libs/eslint-config-pancake",
+  "extends": ["@pancakeswap-libs/eslint-config-pancake",
+              "plugin:import/errors",
+              "plugin:import/warnings",
+              "plugin:import/typescript"],
   "rules": {
     "import/no-extraneous-dependencies": [
       "error",
