@@ -1,14 +1,4 @@
 {
-  "settings":{
-    "import/resolver":{
-      "node":{
-        "extensions": [".js",
-          ".jsx",
-          ".ts",
-          ".tsx"]
-      }
-    }
-  },
   "extends": "@pancakeswap-libs/eslint-config-pancake",
   "rules": {
     "import/no-extraneous-dependencies": [
