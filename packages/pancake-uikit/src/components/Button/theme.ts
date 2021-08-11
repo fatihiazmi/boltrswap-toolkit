@@ -18,7 +18,7 @@ export const scaleVariants = {
 
 export const styleVariants = {
   [variants.PRIMARY]: {
-    backgroundColor: "primary",
+    backgroundColor: "#00aace",
     color: "white",
   },
   [variants.SECONDARY]: {
@@ -26,7 +26,7 @@ export const styleVariants = {
     border: "2px solid",
     borderColor: "primary",
     boxShadow: "none",
-    color: "primary",
+    color: "#00aace",
     ":disabled": {
       backgroundColor: "transparent",
     },
@@ -34,7 +34,7 @@ export const styleVariants = {
   [variants.TERTIARY]: {
     backgroundColor: "tertiary",
     boxShadow: "none",
-    color: "primary",
+    color: "#00aace",
   },
   [variants.SUBTLE]: {
     backgroundColor: "textSubtle",
@@ -50,7 +50,7 @@ export const styleVariants = {
   },
   [variants.TEXT]: {
     backgroundColor: "transparent",
-    color: "primary",
+    color: "#00aace",
     boxShadow: "none",
   },
 };
